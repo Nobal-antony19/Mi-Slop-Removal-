@@ -111,6 +111,5 @@ Use the finding template for every new observation. Label it as:
 
 Use these instructions only on a device you own or are authorized to administer. Commands can affect device functionality. The maintainers are not responsible for data loss, app failures, warranty issues, or device instability. Back up important data before making changes. Xiaomi may change package names, settings, and behavior across releases.
 
-## Suggested portfolio description
 
-**Xiaomi Privacy & Security Research Toolkit** — A practical Android research project documenting ADB-based inspection of Xiaomi/Redmi/POCO devices, including package inventory, permission and AppOps review, analytics and diagnostic settings, log/network evidence, safe user-level package management, and the limitations of secure deletion on flash storage. Emphasis is placed on reproducibility, evidence quality, safety, and clear explanations rather than blind debloating.
+
