@@ -1,0 +1,10 @@
+# Local audit output and device-specific evidence
+audit-output/
+evidence/
+*.log
+*.txt
+*.csv
+*.json
+*.zip
+.DS_Store
+Thumbs.db
